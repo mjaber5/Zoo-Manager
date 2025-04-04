@@ -1,0 +1,15 @@
+C:\Users\moham\source\repos\WPFZooManager\WPFZooManager\bin\Debug\WPFZooManager.exe.config
+C:\Users\moham\source\repos\WPFZooManager\WPFZooManager\bin\Debug\WPFZooManager.exe
+C:\Users\moham\source\repos\WPFZooManager\WPFZooManager\bin\Debug\WPFZooManager.pdb
+C:\Users\moham\source\repos\WPFZooManager\WPFZooManager\obj\Debug\WPFZooManager.csproj.AssemblyReference.cache
+C:\Users\moham\source\repos\WPFZooManager\WPFZooManager\obj\Debug\MainWindow.g.cs
+C:\Users\moham\source\repos\WPFZooManager\WPFZooManager\obj\Debug\App.g.cs
+C:\Users\moham\source\repos\WPFZooManager\WPFZooManager\obj\Debug\WPFZooManager_MarkupCompile.cache
+C:\Users\moham\source\repos\WPFZooManager\WPFZooManager\obj\Debug\WPFZooManager_MarkupCompile.lref
+C:\Users\moham\source\repos\WPFZooManager\WPFZooManager\obj\Debug\MainWindow.baml
+C:\Users\moham\source\repos\WPFZooManager\WPFZooManager\obj\Debug\WPFZooManager.g.resources
+C:\Users\moham\source\repos\WPFZooManager\WPFZooManager\obj\Debug\WPFZooManager.Properties.Resources.resources
+C:\Users\moham\source\repos\WPFZooManager\WPFZooManager\obj\Debug\WPFZooManager.csproj.GenerateResource.cache
+C:\Users\moham\source\repos\WPFZooManager\WPFZooManager\obj\Debug\WPFZooManager.csproj.CoreCompileInputs.cache
+C:\Users\moham\source\repos\WPFZooManager\WPFZooManager\obj\Debug\WPFZooManager.exe
+C:\Users\moham\source\repos\WPFZooManager\WPFZooManager\obj\Debug\WPFZooManager.pdb
